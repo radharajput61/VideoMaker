@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Radha Project/lockdown/PhotomakerMukesh/PhotoVideomaker/PhotoVideomaker/app/src/main/res/layout/activity_ads.xml" value="0.20416666666666666" />
+        <entry key="..\:/Radha Project/lockdown/PhotomakerMukesh/PhotoVideomaker/PhotoVideomaker/app/src/main/res/layout/activity_edit_photo.xml" value="0.20416666666666666" />
+        <entry key="..\:/Radha Project/lockdown/PhotomakerMukesh/PhotoVideomaker/PhotoVideomaker/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Radha Project/lockdown/PhotomakerMukesh/PhotoVideomaker/PhotoVideomaker/app/src/main/res/layout/activity_movie.xml" value="0.20416666666666666" />
+        <entry key="..\:/Radha Project/lockdown/PhotomakerMukesh/PhotoVideomaker/PhotoVideomaker/app/src/main/res/layout/activity_selected_photo.xml" value="0.20416666666666666" />
+        <entry key="..\:/Radha Project/lockdown/PhotomakerMukesh/PhotoVideomaker/PhotoVideomaker/app/src/main/res/layout/activity_splash.xml" value="0.1935185185185185" />
+        <entry key="..\:/Radha Project/lockdown/PhotomakerMukesh/PhotoVideomaker/PhotoVideomaker/app/src/main/res/layout/activity_video_list.xml" value="0.20416666666666666" />
+        <entry key="..\:/Radha Project/lockdown/PhotomakerMukesh/PhotoVideomaker/PhotoVideomaker/app/src/main/res/layout/activity_video_play.xml" value="0.20416666666666666" />
+        <entry key="..\:/Radha Project/lockdown/PhotomakerMukesh/PhotoVideomaker/PhotoVideomaker/app/src/main/res/layout/ad_banner_lay.xml" value="0.20416666666666666" />
+        <entry key="..\:/Radha Project/lockdown/PhotomakerMukesh/PhotoVideomaker/PhotoVideomaker/app/src/main/res/layout/adapter_camera_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Radha Project/lockdown/PhotomakerMukesh/PhotoVideomaker/PhotoVideomaker/app/src/main/res/layout/adapter_folder_list_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Radha Project/lockdown/PhotomakerMukesh/PhotoVideomaker/PhotoVideomaker/app/src/main/res/layout/adapter_image_list_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Radha Project/lockdown/PhotomakerMukesh/PhotoVideomaker/PhotoVideomaker/app/src/main/res/layout/admob_native_medium.xml" value="0.20416666666666666" />
+        <entry key="..\:/Radha Project/lockdown/PhotomakerMukesh/PhotoVideomaker/PhotoVideomaker/app/src/main/res/layout/admob_native_small.xml" value="0.20416666666666666" />
+        <entry key="..\:/Radha Project/lockdown/PhotomakerMukesh/PhotoVideomaker/PhotoVideomaker/app/src/main/res/layout/browser_actions_context_menu_page.xml" value="0.20416666666666666" />
+        <entry key="..\:/Radha Project/lockdown/PhotomakerMukesh/PhotoVideomaker/PhotoVideomaker/app/src/main/res/layout/browser_actions_context_menu_row.xml" value="0.20416666666666666" />
+        <entry key="..\:/Radha Project/lockdown/PhotomakerMukesh/PhotoVideomaker/PhotoVideomaker/app/src/main/res/layout/custom_dialog.xml" value="0.20416666666666666" />
+        <entry key="..\:/Radha Project/lockdown/PhotomakerMukesh/PhotoVideomaker/PhotoVideomaker/app/src/main/res/layout/custom_tab.xml" value="0.20416666666666666" />
+        <entry key="..\:/Radha Project/lockdown/PhotomakerMukesh/PhotoVideomaker/PhotoVideomaker/app/src/main/res/layout/delete_dialog.xml" value="0.20416666666666666" />
+        <entry key="..\:/Radha Project/lockdown/PhotomakerMukesh/PhotoVideomaker/PhotoVideomaker/app/src/main/res/layout/dialog_discard.xml" value="0.20416666666666666" />
+        <entry key="..\:/Radha Project/lockdown/PhotomakerMukesh/PhotoVideomaker/PhotoVideomaker/app/src/main/res/layout/dialog_smart_rate.xml" value="0.20416666666666666" />
+        <entry key="..\:/Radha Project/lockdown/PhotomakerMukesh/PhotoVideomaker/PhotoVideomaker/app/src/main/res/layout/edit_photo_discard_dialog.xml" value="0.20416666666666666" />
+        <entry key="..\:/Radha Project/lockdown/PhotomakerMukesh/PhotoVideomaker/PhotoVideomaker/app/src/main/res/layout/fan_native_medium.xml" value="0.20416666666666666" />
+        <entry key="..\:/Radha Project/lockdown/PhotomakerMukesh/PhotoVideomaker/PhotoVideomaker/app/src/main/res/layout/fragment_bottom_sticker_emoji_dialog.xml" value="0.20416666666666666" />
+        <entry key="..\:/Radha Project/lockdown/PhotomakerMukesh/PhotoVideomaker/PhotoVideomaker/app/src/main/res/layout/fragment_image_emoji.xml" value="0.20416666666666666" />
+        <entry key="..\:/Radha Project/lockdown/PhotomakerMukesh/PhotoVideomaker/PhotoVideomaker/app/src/main/res/layout/fragment_image_overlays.xml" value="0.20416666666666666" />
+        <entry key="..\:/Radha Project/lockdown/PhotomakerMukesh/PhotoVideomaker/PhotoVideomaker/app/src/main/res/layout/fragment_image_sticker.xml" value="0.20416666666666666" />
+        <entry key="..\:/Radha Project/lockdown/PhotomakerMukesh/PhotoVideomaker/PhotoVideomaker/app/src/main/res/layout/fragment_image_tune.xml" value="0.20416666666666666" />
+        <entry key="..\:/Radha Project/lockdown/PhotomakerMukesh/PhotoVideomaker/PhotoVideomaker/app/src/main/res/layout/fragment_movie_duration.xml" value="0.20416666666666666" />
+        <entry key="..\:/Radha Project/lockdown/PhotomakerMukesh/PhotoVideomaker/PhotoVideomaker/app/src/main/res/layout/fragment_movie_filter.xml" value="0.20416666666666666" />
+        <entry key="..\:/Radha Project/lockdown/PhotomakerMukesh/PhotoVideomaker/PhotoVideomaker/app/src/main/res/layout/fragment_movie_music.xml" value="0.20416666666666666" />
+        <entry key="..\:/Radha Project/lockdown/PhotomakerMukesh/PhotoVideomaker/PhotoVideomaker/app/src/main/res/layout/fragment_movie_ratio.xml" value="0.20416666666666666" />
+        <entry key="..\:/Radha Project/lockdown/PhotomakerMukesh/PhotoVideomaker/PhotoVideomaker/app/src/main/res/layout/fragment_movie_transfer.xml" value="0.20416666666666666" />
+        <entry key="..\:/Radha Project/lockdown/PhotomakerMukesh/PhotoVideomaker/PhotoVideomaker/app/src/main/res/layout/fragment_sticker_recyclerview.xml" value="0.20416666666666666" />
+        <entry key="..\:/Radha Project/lockdown/PhotomakerMukesh/PhotoVideomaker/PhotoVideomaker/app/src/main/res/layout/fragment_text_color.xml" value="0.20416666666666666" />
+        <entry key="..\:/Radha Project/lockdown/PhotomakerMukesh/PhotoVideomaker/PhotoVideomaker/app/src/main/res/layout/fragment_text_editor.xml" value="0.20416666666666666" />
+        <entry key="..\:/Radha Project/lockdown/PhotomakerMukesh/PhotoVideomaker/PhotoVideomaker/app/src/main/res/layout/fragment_text_font.xml" value="0.20416666666666666" />
+        <entry key="..\:/Radha Project/lockdown/PhotomakerMukesh/PhotoVideomaker/PhotoVideomaker/app/src/main/res/layout/fragment_text_format.xml" value="0.20416666666666666" />
+        <entry key="..\:/Radha Project/lockdown/PhotomakerMukesh/PhotoVideomaker/PhotoVideomaker/app/src/main/res/layout/fragment_text_highlight.xml" value="0.20416666666666666" />
+        <entry key="..\:/Radha Project/lockdown/PhotomakerMukesh/PhotoVideomaker/PhotoVideomaker/app/src/main/res/layout/fragment_text_shadow.xml" value="0.20416666666666666" />
+        <entry key="..\:/Radha Project/lockdown/PhotomakerMukesh/PhotoVideomaker/PhotoVideomaker/app/src/main/res/layout/fragment_text_spacing.xml" value="0.20416666666666666" />
+        <entry key="..\:/Radha Project/lockdown/PhotomakerMukesh/PhotoVideomaker/PhotoVideomaker/app/src/main/res/layout/fragment_text_stroke.xml" value="0.20416666666666666" />
+        <entry key="..\:/Radha Project/lockdown/PhotomakerMukesh/PhotoVideomaker/PhotoVideomaker/app/src/main/res/layout/fragment_tune_seekbar.xml" value="0.20416666666666666" />
+        <entry key="..\:/Radha Project/lockdown/PhotomakerMukesh/PhotoVideomaker/PhotoVideomaker/app/src/main/res/layout/include_top_bar.xml" value="0.20416666666666666" />
+        <entry key="..\:/Radha Project/lockdown/PhotomakerMukesh/PhotoVideomaker/PhotoVideomaker/app/src/main/res/layout/item_color.xml" value="0.20416666666666666" />
+        <entry key="..\:/Radha Project/lockdown/PhotomakerMukesh/PhotoVideomaker/PhotoVideomaker/app/src/main/res/layout/item_emoji.xml" value="0.20416666666666666" />
+        <entry key="..\:/Radha Project/lockdown/PhotomakerMukesh/PhotoVideomaker/PhotoVideomaker/app/src/main/res/layout/item_filter.xml" value="0.20416666666666666" />
+        <entry key="..\:/Radha Project/lockdown/PhotomakerMukesh/PhotoVideomaker/PhotoVideomaker/app/src/main/res/layout/item_font.xml" value="0.20416666666666666" />
+        <entry key="..\:/Radha Project/lockdown/PhotomakerMukesh/PhotoVideomaker/PhotoVideomaker/app/src/main/res/layout/item_music.xml" value="0.20416666666666666" />
+        <entry key="..\:/Radha Project/lockdown/PhotomakerMukesh/PhotoVideomaker/PhotoVideomaker/app/src/main/res/layout/item_photo.xml" value="0.20416666666666666" />
+        <entry key="..\:/Radha Project/lockdown/PhotomakerMukesh/PhotoVideomaker/PhotoVideomaker/app/src/main/res/layout/item_sticker.xml" value="0.20416666666666666" />
+        <entry key="..\:/Radha Project/lockdown/PhotomakerMukesh/PhotoVideomaker/PhotoVideomaker/app/src/main/res/layout/item_transfer.xml" value="0.20416666666666666" />
+        <entry key="..\:/Radha Project/lockdown/PhotomakerMukesh/PhotoVideomaker/PhotoVideomaker/app/src/main/res/layout/layout_ads_big.xml" value="0.20416666666666666" />
+        <entry key="..\:/Radha Project/lockdown/PhotomakerMukesh/PhotoVideomaker/PhotoVideomaker/app/src/main/res/layout/layout_music_sheet.xml" value="0.20416666666666666" />
+        <entry key="..\:/Radha Project/lockdown/PhotomakerMukesh/PhotoVideomaker/PhotoVideomaker/app/src/main/res/layout/layout_saving.xml" value="0.20416666666666666" />
+        <entry key="..\:/Radha Project/lockdown/PhotomakerMukesh/PhotoVideomaker/PhotoVideomaker/app/src/main/res/layout/myad_native_medium.xml" value="0.20416666666666666" />
+        <entry key="..\:/Radha Project/lockdown/PhotomakerMukesh/PhotoVideomaker/PhotoVideomaker/app/src/main/res/layout/notification_action.xml" value="0.20416666666666666" />
+        <entry key="..\:/Radha Project/lockdown/PhotomakerMukesh/PhotoVideomaker/PhotoVideomaker/app/src/main/res/layout/pop_folder.xml" value="0.20416666666666666" />
+        <entry key="..\:/Radha Project/lockdown/PhotomakerMukesh/PhotoVideomaker/PhotoVideomaker/app/src/main/res/layout/row_sticker.xml" value="0.20416666666666666" />
+        <entry key="..\:/Radha Project/lockdown/PhotomakerMukesh/PhotoVideomaker/PhotoVideomaker/app/src/main/res/layout/toolbar_edit_photo.xml" value="0.20416666666666666" />
+        <entry key="..\:/Radha Project/lockdown/PhotomakerMukesh/PhotoVideomaker/PhotoVideomaker/app/src/main/res/layout/toolbar_movie_maker.xml" value="0.20416666666666666" />
+        <entry key="..\:/Radha Project/lockdown/PhotomakerMukesh/PhotoVideomaker/PhotoVideomaker/app/src/main/res/layout/video_list.xml" value="0.20416666666666666" />
+        <entry key="..\:/Radha Project/lockdown/PhotomakerMukesh/PhotoVideomaker/PhotoVideomaker/app/src/main/res/layout/view_photo_editor_emoji.xml" value="0.20416666666666666" />
+        <entry key="..\:/Radha Project/lockdown/PhotomakerMukesh/PhotoVideomaker/PhotoVideomaker/app/src/main/res/layout/view_photo_editor_image.xml" value="0.20416666666666666" />
+        <entry key="..\:/Radha Project/lockdown/PhotomakerMukesh/PhotoVideomaker/PhotoVideomaker/app/src/main/res/layout/view_photo_editor_text.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

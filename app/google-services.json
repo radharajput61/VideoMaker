@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "709954853669",
+    "project_id": "videomaker-122c9",
+    "storage_bucket": "videomaker-122c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709954853669:android:c5862d3fbf45eb6c4718cc",
+        "android_client_info": {
+          "package_name": "com.app.localvideolist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "709954853669-m4jtkiv7bpf34kgip6a3kpfhoqsspjkv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByFwbKtn4SEH5v7KtlEGiLTaovxE4aM4M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "709954853669-m4jtkiv7bpf34kgip6a3kpfhoqsspjkv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709954853669:android:e27df6aba0f93ed74718cc",
+        "android_client_info": {
+          "package_name": "com.devchie.videomaker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "709954853669-m4jtkiv7bpf34kgip6a3kpfhoqsspjkv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByFwbKtn4SEH5v7KtlEGiLTaovxE4aM4M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "709954853669-m4jtkiv7bpf34kgip6a3kpfhoqsspjkv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

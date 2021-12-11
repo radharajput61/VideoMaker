@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/v_bt"
+    android:background="@color/backgroundEditActivitySecondary"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:rsb="http://schemas.android.com/tools">
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:weightSum="8"
+            android:padding="10dp"
+            android:layout_marginLeft="7dp"
+            android:layout_marginRight="7dp"
+            android:layout_width="match_parent"
+            android:background="?attr/selectableItemBackgroundBorderless"
+            android:clickable="true"
+            android:layout_height="wrap_content">
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_weight="2"
+                android:layout_gravity="center"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Trim Music"
+                    android:textSize="15dp"
+                    android:textStyle="bold"
+                    android:maxLines="1"
+                    android:textColor="@color/white"
+                    android:ellipsize="end"
+                    android:drawablePadding="8dp"
+                    />
+
+            </LinearLayout>
+            <LinearLayout
+                android:gravity="right"
+                android:orientation="vertical"
+                android:layout_weight="6"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+                <ImageView
+                    android:id="@+id/btn_cancel"
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    android:src="@drawable/close"
+                    android:tint="@color/white"
+                    />
+            </LinearLayout>
+        </LinearLayout>
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0.7dp"
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="12dp"
+            android:background="#DDDDDD"/>
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <org.florescu.android.rangeseekbar.RangeSeekBar
+                android:id="@+id/rangeSeekBar"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_margin="5dp"
+                app:thumbDisabled="@drawable/ic_circle_point"
+                app:thumbNormal="@drawable/ic_circle_point"
+                app:thumbPressed="@drawable/ic_circle_point"
+                app:alwaysActive="true"
+                app:showLabels="false"
+                rsb:activeColor="#F14343"
+                rsb:textAboveThumbsColor="#EC0D0D" />
+
+            <TextView
+                android:id="@+id/tvLeft"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignLeft="@+id/rangeSeekBar"
+                android:layout_alignStart="@+id/rangeSeekBar"
+                android:layout_below="@+id/rangeSeekBar"
+                android:textColor="@color/white" />
+
+            <TextView
+                android:id="@+id/tvRight"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignEnd="@+id/rangeSeekBar"
+                android:layout_alignRight="@+id/rangeSeekBar"
+                android:layout_below="@+id/rangeSeekBar"
+                android:textColor="@color/white" />
+        </LinearLayout>
+        <androidx.cardview.widget.CardView
+            android:layout_weight="1"
+            android:id="@+id/cdBtnDone"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_above="@id/listPhoto"
+            android:layout_margin="8.0dip"
+            android:foreground="?android:selectableItemBackground"
+            app:cardBackgroundColor="@color/selected_border"
+            app:cardCornerRadius="8.0dip">
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_margin="16.0dip">
+
+                <ImageView
+                    android:layout_width="24.0dip"
+                    android:layout_height="24.0dip"
+                    android:layout_marginRight="12.0dip"
+                    android:src="@drawable/ic_music"
+
+                    />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="24.0dip"
+                    android:fontFamily="@font/sf_pro_display_medium"
+                    android:gravity="center_vertical"
+                    android:text="Done"
+                    android:textColor="@color/black"
+                    android:textSize="18.0sp" />
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+
+    </LinearLayout>
+</RelativeLayout>
